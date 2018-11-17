@@ -1,0 +1,14 @@
+C:\Users\MattM\Documents\GitHub\nzmsa-2018-phase2-memebank-backend\MemeBank\MemeBank\bin\Debug\netcoreapp2.1\MemeBank.deps.json
+C:\Users\MattM\Documents\GitHub\nzmsa-2018-phase2-memebank-backend\MemeBank\MemeBank\bin\Debug\netcoreapp2.1\MemeBank.runtimeconfig.json
+C:\Users\MattM\Documents\GitHub\nzmsa-2018-phase2-memebank-backend\MemeBank\MemeBank\bin\Debug\netcoreapp2.1\MemeBank.runtimeconfig.dev.json
+C:\Users\MattM\Documents\GitHub\nzmsa-2018-phase2-memebank-backend\MemeBank\MemeBank\bin\Debug\netcoreapp2.1\MemeBank.dll
+C:\Users\MattM\Documents\GitHub\nzmsa-2018-phase2-memebank-backend\MemeBank\MemeBank\bin\Debug\netcoreapp2.1\MemeBank.pdb
+C:\Users\MattM\Documents\GitHub\nzmsa-2018-phase2-memebank-backend\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.csproj.CoreCompileInputs.cache
+C:\Users\MattM\Documents\GitHub\nzmsa-2018-phase2-memebank-backend\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.RazorAssemblyInfo.cache
+C:\Users\MattM\Documents\GitHub\nzmsa-2018-phase2-memebank-backend\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.RazorAssemblyInfo.cs
+C:\Users\MattM\Documents\GitHub\nzmsa-2018-phase2-memebank-backend\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.AssemblyInfoInputs.cache
+C:\Users\MattM\Documents\GitHub\nzmsa-2018-phase2-memebank-backend\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.AssemblyInfo.cs
+C:\Users\MattM\Documents\GitHub\nzmsa-2018-phase2-memebank-backend\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.RazorTargetAssemblyInfo.cache
+C:\Users\MattM\Documents\GitHub\nzmsa-2018-phase2-memebank-backend\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.dll
+C:\Users\MattM\Documents\GitHub\nzmsa-2018-phase2-memebank-backend\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.pdb
+C:\Users\MattM\Documents\GitHub\nzmsa-2018-phase2-memebank-backend\MemeBank\MemeBank\obj\Debug\netcoreapp2.1\MemeBank.csprojAssemblyReference.cache
